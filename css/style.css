@@ -111,7 +111,7 @@ html{
 #services{
     margin: 10px;
     display:ruby-base;
-    background:url("/bg4.jpg");
+    background:url("../bg4.jpg");
 }
 #services .box{ 
     border: 2px solid wheat;
